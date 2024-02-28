@@ -45,7 +45,7 @@ public class PdfGenerator {
 		table.setWidths(new float[] {3.5f, 6.5f, 6.5f, 6.5f, 6.5f, 6.5f, 6.0f, 6.5f,  6.5f,  6.5f, 6.0f, 6.0f});
 		table.setSpacingBefore(5);
 
-		table.addCell("PET ID");
+		table.addCell("PET ID");	
 		table.addCell("USER NAME");
 		table.addCell("USER EMAIL");
 		table.addCell("ADDRESS");
